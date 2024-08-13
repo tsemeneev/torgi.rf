@@ -1,0 +1,1993 @@
+{
+    "content": [
+        {
+            "id": "22000017820000000092_1",
+            "noticeNumber": "22000017820000000092",
+            "lotNumber": 1,
+            "lotStatus": "PUBLISHED",
+            "biddType": {
+                "code": "67FAS_147FAS",
+                "name": "Аренда, безвозмездное пользование, доверительное управление имуществом, иные договоры, предусматривающие переход прав в отношении государственного или муниципального имущества, продажа имущества ФГУП"
+            },
+            "biddForm": {
+                "code": "EA",
+                "name": "Электронный аукцион"
+            },
+            "lotName": "Право заключения договора аренды нежилого здания (Подземное защитное сооружение) кадастровый номер 66:41:0205009:805, являющегося защитным сооружением гражданской обороны, расположенного по адресу: Свердловская обл., г. Екатеринбург, пр-кт. Космонавтов, д.11",
+            "lotDescription": "Нежилое здание (Подземное защитное сооружение) кадастровый номер 66:41:0205009:805, являющегося защитным сооружением гражданской обороны, расположенного по адресу: Свердловская обл., г. Екатеринбург, пр-кт. Космонавтов, д.11",
+            "priceMin": 64153.75,
+            "biddEndTime": "2024-08-27T21:00:00.000+00:00",
+            "lotImages": [
+                "66b0cdc75c25f4068700f396",
+                "66b0cdcbd37bc565ab8e3332",
+                "66b0cdcc5e0b703edd9da99e",
+                "66b0cdced37bc565ab8e3390",
+                "66b0cdcdd37bc565ab8e337a",
+                "66b0cdc65e0b703edd9da96e",
+                "66b0cdccd37bc565ab8e3347",
+                "66b0cdce5e0b703edd9da9b0",
+                "66b0cdd1d44e215fce70aecf",
+                "66b0cdd2d37bc565ab8e33a6",
+                "66b0cdd3d44e215fce70aee5",
+                "66b0cdd35e0b703edd9da9c3",
+                "66b0cdd35c25f4068700f3df",
+                "66b0cdd35c25f4068700f3ef",
+                "66b0cdd6d44e215fce70aefc",
+                "66b0cdd75c25f4068700f408",
+                "66b0cdd8d37bc565ab8e33d5",
+                "66b0cdd8d37bc565ab8e33d6",
+                "66b0cdd85c25f4068700f41a",
+                "66b0cdd85e0b703edd9da9db",
+                "66b0cddb5c25f4068700f42d",
+                "66b0cddb5e0b703edd9da9ea",
+                "66b0cddc5c25f4068700f43f",
+                "66b0cddcd37bc565ab8e33fa",
+                "66b0cddbd37bc565ab8e33ef"
+            ],
+            "characteristics": [
+                {
+                    "name": "Регистрационный номер ЕГРОКН",
+                    "code": "regNumberEGROKN",
+                    "type": "String"
+                },
+                {
+                    "characteristicValue": "905.7",
+                    "name": "Общая площадь",
+                    "code": "totalAreaRealty",
+                    "unit": {
+                        "code": "081",
+                        "name": "Квадратный метр общей площади",
+                        "symbol": "м^2 общ. пл"
+                    },
+                    "type": "Decimal"
+                },
+                {
+                    "name": "Материалы наружных стен здания ",
+                    "code": "buildingWallMaterials",
+                    "type": "Text(100)"
+                },
+                {
+                    "characteristicValue": "2",
+                    "name": "Количество этажей ",
+                    "code": "numberFloors",
+                    "type": "Text(100)"
+                },
+                {
+                    "characteristicValue": "1",
+                    "name": "Количество подземных этажей ",
+                    "code": "numberUndergroundFloors",
+                    "type": "Text(100)"
+                },
+                {
+                    "characteristicValue": "нежилое",
+                    "name": "Назначение здания ",
+                    "code": "purposeBuilding",
+                    "type": "Text(100)"
+                },
+                {
+                    "characteristicValue": "Имеются ограничения, установленные для объектов ЗС ГО, в соответствии с требованиями Приказа МЧС России от 15.12.2002 N 583 \"Об утверждении и введении в действие Правил эксплуатации защитных сооружений гражданской обороны\", Приказа МЧС России от 21.07.2005 N 575 \"Об утверждении Порядка содержания и использования защитных сооружений гражданской обороны в мирное время\"».. Оборудование ГО и гермодвери по паспорту отсутствуют.",
+                    "name": "Общие сведения об ограничениях и обременениях ",
+                    "code": "restrictionsEncumbrances",
+                    "type": "Text(500)"
+                },
+                {
+                    "name": "Вид ограничений и обременений",
+                    "code": "typeRestrictionsEncumbrances",
+                    "type": "Text(100)"
+                },
+                {
+                    "name": "Кадастровая стоимость ",
+                    "code": "cadastralValue",
+                    "type": "Money"
+                },
+                {
+                    "characteristicValue": "66:41:0205009:805",
+                    "name": "Кадастровый номер",
+                    "code": "cadastralNumberRealty",
+                    "type": "Text(500)"
+                },
+                {
+                    "name": "Год ввода в эксплуатацию",
+                    "code": "yearCommissioning",
+                    "type": "Text(20)"
+                }
+            ],
+            "currencyCode": "643",
+            "etpCode": "ETP_RTS",
+            "subjectRFCode": "66",
+            "category": {
+                "code": "8",
+                "name": "Здания"
+            },
+            "createDate": "2024-08-05T13:14:35.934+00:00",
+            "timeZoneName": "МСК",
+            "timezoneOffset": "180",
+            "hasAppeals": false,
+            "isStopped": false,
+            "attributes": [
+                {
+                    "code": "DA_contractType_EA(147)",
+                    "fullName": "Вид договора",
+                    "value": {
+                        "code": "2",
+                        "name": "Договор аренды"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 1
+                },
+                {
+                    "code": "DA_priceMinFor_1_EA(147)",
+                    "fullName": "Начальная цена указана за:",
+                    "value": {
+                        "code": "DA_priceMinFor_1_EA(147)_Select_2",
+                        "name": "Арендный платеж за месяц"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2
+                },
+                {
+                    "code": "DA_termsConditionsPayment_3_EA(147)",
+                    "fullName": "Сроки и порядок оплаты",
+                    "value": {
+                        "code": "2953",
+                        "name": "Ежемесячный платеж"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 9
+                },
+                {
+                    "code": "DA_termsConditionsPaymentInfo_EA(147)",
+                    "fullName": "Информация о сроках и порядке оплаты",
+                    "value": "Согласно п.9.8 Документации об аукционе",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 10
+                },
+                {
+                    "code": "DA_contractYears_EA(147)",
+                    "fullName": "Срок действия договора - лет",
+                    "value": 5,
+                    "attributeType": "Integer",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 12
+                },
+                {
+                    "code": "DA_contractMonths_EA(147)",
+                    "fullName": "Срок действия договора - месяцев ",
+                    "attributeType": "Integer",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 13
+                },
+                {
+                    "code": "DA_contractDays_EA(147)",
+                    "fullName": "Срок действия договора - дней",
+                    "attributeType": "Integer",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 14
+                },
+                {
+                    "code": "DA_contractPaymentTerm_EA(147)",
+                    "fullName": "Срок оплаты по договору",
+                    "value": "Согласно п.9.8 Документации об аукционе",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 15
+                },
+                {
+                    "code": "DA_contractSigningDate_EA(147)",
+                    "fullName": "Срок, в течение которого должен быть подписан проект договора",
+                    "value": "Согласно п.9.4 Документации об аукционе",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 16
+                },
+                {
+                    "code": "DA_limitations_EA(147)",
+                    "fullName": "Обременения, ограничения",
+                    "value": "Согласно п.2 Документации об аукционе",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 17
+                },
+                {
+                    "code": "DA_monthlyPricePerSqMeter_EA(147)",
+                    "fullName": "Начальная цена за кв.м",
+                    "value": 70.83,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 18
+                },
+                {
+                    "code": "DA_intendedUse_EA(147)",
+                    "fullName": "Целевое назначение государственного или муниципального имущества, права на которое передаются по договору",
+                    "value": "помещение свободного назначения",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 19
+                },
+                {
+                    "code": "DA_forSmallBusiness_EA(147)",
+                    "fullName": "Участниками аукциона могут являться только субъекты малого и среднего предпринимательства, физические лица, применяющие специальный налоговый режим \"Налог на профессиональный доход\", или организации, образующие инфраструктуру поддержки субъектов малого и среднего предпринимательства, имеющие право на поддержку органов государственной власти и органов местного самоуправления",
+                    "attributeType": "Checker",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 20
+                },
+                {
+                    "code": "DA_isAbleToSublease_EA(147)",
+                    "fullName": "Возможна субаренда",
+                    "value": true,
+                    "attributeType": "Checker",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 20
+                },
+                {
+                    "code": "DA_isSublease_EA(147)",
+                    "fullName": "Сдача имущества в субаренду",
+                    "attributeType": "Checker",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 21
+                },
+                {
+                    "code": "DA_depositTimeAndRules_EA(147)",
+                    "fullName": "Срок и порядок внесения задатка",
+                    "value": "Согласно п.1.9 Документации об аукционе",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 1
+                }
+            ],
+            "noticeAttributes": [
+                {
+                    "code": "DA_fgup_EA(147)",
+                    "fullName": "Реализация (отчуждение) имущества ФГУП (ГУП, МУП, государственного, муниципального учреждения)",
+                    "value": false,
+                    "attributeType": "Checker",
+                    "group": {
+                        "code": "N250",
+                        "name": "1.2 Извещение_основные_сведения",
+                        "displayGroupType": "NOTICE"
+                    },
+                    "sortOrder": 1
+                }
+            ],
+            "isAnnulled": false,
+            "noticeFirstVersionPublicationDate": "2024-08-05T13:19:22.817Z",
+            "lotVat": {
+                "code": "excludingVAT",
+                "name": "Без учета НДС"
+            },
+            "npaHintCode": "hint1_67FAS_147FAS",
+            "typeTransaction": "rent"
+        },
+        {
+            "id": "21000006840000000608_1",
+            "noticeNumber": "21000006840000000608",
+            "lotNumber": 1,
+            "lotStatus": "PUBLISHED",
+            "biddType": {
+                "code": "178FZ",
+                "name": "Продажа (приватизация) государственного и муниципального имущества"
+            },
+            "biddForm": {
+                "code": "PP",
+                "name": "Публичное предложение"
+            },
+            "lotName": "Продажа имущества, находящегося в оперативном управлении ГБУ \"Жилищник района Вешняки\", машино-место № 208, расположенное на этаже 4, помещение VII, в многоуровневом паркинге по адресу г. Москва, ул. Кетчерская д. 5А, площадь 15,2 м.кв., кадастровый номер 77:00:0000000:42199 посредством публичного предложения",
+            "lotDescription": "Продажа имущества, находящегося в оперативном управлении ГБУ \"Жилищник района Вешняки\", машино-место № 208, расположенное на этаже 4, помещение VII, в многоуровневом паркинге по адресу г. Москва, ул. Кетчерская д. 5А, площадь 15,2 м.кв., кадастровый номер 77:00:0000000:42199 посредством публичного предложения",
+            "priceMin": 636302.0,
+            "biddEndTime": "2024-09-06T12:00:00.000+00:00",
+            "lotImages": [
+                "6422d1408082036245af3bc2",
+                "662a42621c3df31d69ac07c3",
+                "6422d1438082036245af3bc6",
+                "662a426329344516bdd9cb59",
+                "662a42631c3df31d69ac07c8",
+                "662a4264e67dfd49a420d42b",
+                "662a426429344516bdd9cb61",
+                "6422d1441cc30e0471c535da",
+                "6422d144b06a400e18713c00",
+                "6422d1441cc30e0471c535dd",
+                "6422d144c24dc509e889b3f7"
+            ],
+            "characteristics": [
+                {
+                    "characteristicValue": "15.2",
+                    "name": "Общая площадь",
+                    "code": "totalAreaRealty",
+                    "unit": {
+                        "code": "081",
+                        "name": "Квадратный метр общей площади",
+                        "symbol": "м^2 общ. пл"
+                    },
+                    "type": "Decimal"
+                },
+                {
+                    "characteristicValue": "77:00:0000000:42199",
+                    "name": "Кадастровый номер",
+                    "code": "cadastralNumberRealty",
+                    "type": "Text(500)"
+                }
+            ],
+            "currencyCode": "643",
+            "etpCode": "ETP_EETP",
+            "subjectRFCode": "77",
+            "category": {
+                "code": "10",
+                "name": "Гаражи и машиноместа "
+            },
+            "createDate": "2024-08-05T12:53:45.944+00:00",
+            "timeZoneName": "МСК",
+            "timezoneOffset": "180",
+            "hasAppeals": false,
+            "isStopped": false,
+            "attributes": [
+                {
+                    "code": "DA_contractSignPeriod_PP(178)",
+                    "fullName": "Срок заключения договора",
+                    "value": "не позднее 20 (двадцати) дней",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL250",
+                        "name": "5.3 Лот_основная_информация",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 3
+                },
+                {
+                    "code": "DA_depositTimeAndRules_PP(178)",
+                    "fullName": "Срок и порядок внесения задатка",
+                    "value": "Задаток должен быть перечислен на счет оператора торговой площадки",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 1
+                }
+            ],
+            "isAnnulled": false,
+            "noticeFirstVersionPublicationDate": "2024-08-05T13:19:08.508Z",
+            "lotVat": {
+                "code": "includedVAT",
+                "name": "С учетом НДС"
+            },
+            "npaHintCode": "hint1_178FZ",
+            "typeTransaction": "sale"
+        },
+        {
+            "id": "21000023240000000186_2",
+            "noticeNumber": "21000023240000000186",
+            "lotNumber": 2,
+            "lotStatus": "PUBLISHED",
+            "biddType": {
+                "code": "ZHKH",
+                "name": "Отбор региональных операторов по обращению с ТКО и управляющих организаций для управления МКД"
+            },
+            "biddForm": {
+                "code": "PK",
+                "name": "Конкурс"
+            },
+            "lotName": "Право заключения договора управления многоквартирным домом. расположенного по адресу: Владимирская область, г. Гусь-Хрустальный,  ул. Микрорайон, дом № 24",
+            "lotDescription": "Лот № 2",
+            "priceMin": 0.0,
+            "biddEndTime": "2024-09-09T07:00:00.000+00:00",
+            "lotImages": [],
+            "characteristics": [],
+            "subjectRFCode": "33",
+            "category": {
+                "code": "902",
+                "name": "Управление многоквартирными домами"
+            },
+            "createDate": "2024-08-05T11:04:14.869+00:00",
+            "timeZoneName": "МСК",
+            "timezoneOffset": "180",
+            "hasAppeals": false,
+            "isStopped": false,
+            "attributes": [
+                {
+                    "code": "DA_Lot.deposit_PK(MKD)",
+                    "fullName": "Размер обеспечения заявки",
+                    "value": 1197.19,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2025
+                },
+                {
+                    "code": "DA_Lot.basis_PK(MKD)",
+                    "fullName": "Основание проведения конкурса и нормативные правовые акты, на основании которых проводится конкурс",
+                    "value": "ч. 2 ст. 163 Жилищного кодекса Российской Федерации",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2050
+                },
+                {
+                    "code": "DA_Lot.objectCharacteristic_PK(MKD)",
+                    "fullName": "Характеристика объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации ",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2075
+                },
+                {
+                    "code": "DA_Lot.nameServices_PK(MKD)",
+                    "fullName": "Наименование работ и услуг по содержанию и ремонту объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации ",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2125
+                },
+                {
+                    "code": "DA_Lot.amountFee_PK(MKD)",
+                    "fullName": "Размер платы за содержание и ремонт жилого помещения",
+                    "value": 45.74,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2150
+                },
+                {
+                    "code": "DA_Lot.listServices_PK(MKD)",
+                    "fullName": "Перечень коммунальных услуг, предоставляемых управляющей организацией",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации ",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2175
+                },
+                {
+                    "code": "DA_Lot.officialSite_PK(MKD)",
+                    "fullName": "Адрес официального сайта, на котором размещена конкурсная документация",
+                    "value": "torgi.gov.ru",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2200
+                },
+                {
+                    "code": "DA_Lot.submissionDocumentation_PK(MKD)",
+                    "fullName": "Место и порядок предоставления конкурсной документации, \nразмер, порядок и сроки внесения платы, за предоставление конкурсной документации",
+                    "value": "Конкурсную документацию на бумажном носителе можно получить  по адресу: Владимирская область, г. Гусь-Хрустальный, ул. Калинина, д. 11, технический отдел МКУ «Служба единого заказчика» на основании  письменного заявления в течение  двух рабочих дней с даты получения письменного  заявления, в течение срока подачи заявок (понедельник - четверг с 8.30 до 17.15 часов, перерыв с 12.15 до 13.00 часов, пятница  с 8.30 до 17.00 часов, перерыв с 12.30 до 13.00 часов по МСК). Размер платы 0,00 рублей",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2225
+                },
+                {
+                    "code": "DA_Lot.contractPeriod_PK(MKD)",
+                    "fullName": "Срок действия договора",
+                    "value": "3 ",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2250
+                }
+            ],
+            "noticeAttributes": [
+                {
+                    "code": "DA_typeCompetitive_PK(ZHKH)",
+                    "fullName": "Вид конкурса",
+                    "value": {
+                        "code": "MKD",
+                        "name": "Конкурсный отбор управляющей организации для управления многоквартирным домом"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "N250",
+                        "name": "1.2 Извещение_основные_сведения",
+                        "displayGroupType": "NOTICE"
+                    },
+                    "sortOrder": 100
+                }
+            ],
+            "isAnnulled": false,
+            "noticeFirstVersionPublicationDate": "2024-08-05T13:19:02.833Z",
+            "npaHintCode": "hint2_ZHKH_PK_1"
+        },
+        {
+            "id": "21000023240000000186_3",
+            "noticeNumber": "21000023240000000186",
+            "lotNumber": 3,
+            "lotStatus": "PUBLISHED",
+            "biddType": {
+                "code": "ZHKH",
+                "name": "Отбор региональных операторов по обращению с ТКО и управляющих организаций для управления МКД"
+            },
+            "biddForm": {
+                "code": "PK",
+                "name": "Конкурс"
+            },
+            "lotName": "Право заключения договора управления многоквартирным домом. расположенного по адресу: Владимирская область, г. Гусь-Хрустальный,  ул. Микрорайон, дом № 26",
+            "lotDescription": "Лот № 3",
+            "priceMin": 0.0,
+            "biddEndTime": "2024-09-09T07:00:00.000+00:00",
+            "lotImages": [],
+            "characteristics": [],
+            "subjectRFCode": "33",
+            "category": {
+                "code": "902",
+                "name": "Управление многоквартирными домами"
+            },
+            "createDate": "2024-08-05T11:04:14.869+00:00",
+            "timeZoneName": "МСК",
+            "timezoneOffset": "180",
+            "hasAppeals": false,
+            "isStopped": false,
+            "attributes": [
+                {
+                    "code": "DA_Lot.deposit_PK(MKD)",
+                    "fullName": "Размер обеспечения заявки",
+                    "value": 1830.77,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2025
+                },
+                {
+                    "code": "DA_Lot.basis_PK(MKD)",
+                    "fullName": "Основание проведения конкурса и нормативные правовые акты, на основании которых проводится конкурс",
+                    "value": "ч. 2 ст. 163 Жилищного кодекса Российской Федерации",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2050
+                },
+                {
+                    "code": "DA_Lot.objectCharacteristic_PK(MKD)",
+                    "fullName": "Характеристика объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2075
+                },
+                {
+                    "code": "DA_Lot.nameServices_PK(MKD)",
+                    "fullName": "Наименование работ и услуг по содержанию и ремонту объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2125
+                },
+                {
+                    "code": "DA_Lot.amountFee_PK(MKD)",
+                    "fullName": "Размер платы за содержание и ремонт жилого помещения",
+                    "value": 45.74,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2150
+                },
+                {
+                    "code": "DA_Lot.listServices_PK(MKD)",
+                    "fullName": "Перечень коммунальных услуг, предоставляемых управляющей организацией",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2175
+                },
+                {
+                    "code": "DA_Lot.officialSite_PK(MKD)",
+                    "fullName": "Адрес официального сайта, на котором размещена конкурсная документация",
+                    "value": "torgi.gov.ru",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2200
+                },
+                {
+                    "code": "DA_Lot.submissionDocumentation_PK(MKD)",
+                    "fullName": "Место и порядок предоставления конкурсной документации, \nразмер, порядок и сроки внесения платы, за предоставление конкурсной документации",
+                    "value": "Конкурсную документацию на бумажном носителе можно получить  по адресу: Владимирская область, г. Гусь-Хрустальный, ул. Калинина, д. 11, технический отдел МКУ «Служба единого заказчика» на основании  письменного заявления в течение  двух рабочих дней с даты получения письменного  заявления, в течение срока подачи заявок (понедельник - четверг с 8.30 до 17.15 часов, перерыв с 12.15 до 13.00 часов, пятница  с 8.30 до 17.00 часов, перерыв с 12.30 до 13.00 часов по МСК). Размер платы 0,00 рублей",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2225
+                },
+                {
+                    "code": "DA_Lot.contractPeriod_PK(MKD)",
+                    "fullName": "Срок действия договора",
+                    "value": "3",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2250
+                }
+            ],
+            "noticeAttributes": [
+                {
+                    "code": "DA_typeCompetitive_PK(ZHKH)",
+                    "fullName": "Вид конкурса",
+                    "value": {
+                        "code": "MKD",
+                        "name": "Конкурсный отбор управляющей организации для управления многоквартирным домом"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "N250",
+                        "name": "1.2 Извещение_основные_сведения",
+                        "displayGroupType": "NOTICE"
+                    },
+                    "sortOrder": 100
+                }
+            ],
+            "isAnnulled": false,
+            "noticeFirstVersionPublicationDate": "2024-08-05T13:19:02.833Z",
+            "npaHintCode": "hint2_ZHKH_PK_1"
+        },
+        {
+            "id": "21000023240000000186_9",
+            "noticeNumber": "21000023240000000186",
+            "lotNumber": 9,
+            "lotStatus": "PUBLISHED",
+            "biddType": {
+                "code": "ZHKH",
+                "name": "Отбор региональных операторов по обращению с ТКО и управляющих организаций для управления МКД"
+            },
+            "biddForm": {
+                "code": "PK",
+                "name": "Конкурс"
+            },
+            "lotName": "Право заключения договора управления многоквартирным домом. расположенного по адресу: Владимирская область, г. Гусь-Хрустальный,  п. Новый, ул. Ленина, дом № 11",
+            "lotDescription": "Лот № 9",
+            "priceMin": 0.0,
+            "biddEndTime": "2024-09-09T07:00:00.000+00:00",
+            "lotImages": [],
+            "characteristics": [],
+            "subjectRFCode": "33",
+            "category": {
+                "code": "902",
+                "name": "Управление многоквартирными домами"
+            },
+            "createDate": "2024-08-05T11:04:14.869+00:00",
+            "timeZoneName": "МСК",
+            "timezoneOffset": "180",
+            "hasAppeals": false,
+            "isStopped": false,
+            "attributes": [
+                {
+                    "code": "DA_Lot.deposit_PK(MKD)",
+                    "fullName": "Размер обеспечения заявки",
+                    "value": 1145.66,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2025
+                },
+                {
+                    "code": "DA_Lot.basis_PK(MKD)",
+                    "fullName": "Основание проведения конкурса и нормативные правовые акты, на основании которых проводится конкурс",
+                    "value": "ч. 2 ст. 163 Жилищного кодекса Российской Федерации ",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2050
+                },
+                {
+                    "code": "DA_Lot.objectCharacteristic_PK(MKD)",
+                    "fullName": "Характеристика объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации ",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2075
+                },
+                {
+                    "code": "DA_Lot.nameServices_PK(MKD)",
+                    "fullName": "Наименование работ и услуг по содержанию и ремонту объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации ",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2125
+                },
+                {
+                    "code": "DA_Lot.amountFee_PK(MKD)",
+                    "fullName": "Размер платы за содержание и ремонт жилого помещения",
+                    "value": 45.74,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2150
+                },
+                {
+                    "code": "DA_Lot.listServices_PK(MKD)",
+                    "fullName": "Перечень коммунальных услуг, предоставляемых управляющей организацией",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации ",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2175
+                },
+                {
+                    "code": "DA_Lot.officialSite_PK(MKD)",
+                    "fullName": "Адрес официального сайта, на котором размещена конкурсная документация",
+                    "value": "torgi.gov.ru",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2200
+                },
+                {
+                    "code": "DA_Lot.submissionDocumentation_PK(MKD)",
+                    "fullName": "Место и порядок предоставления конкурсной документации, \nразмер, порядок и сроки внесения платы, за предоставление конкурсной документации",
+                    "value": "Конкурсную документацию на бумажном носителе можно получить  по адресу: Владимирская область, г. Гусь-Хрустальный, ул. Калинина, д. 11, технический отдел МКУ «Служба единого заказчика» на основании  письменного заявления в течение  двух рабочих дней с даты получения письменного  заявления, в течение срока подачи заявок (понедельник - четверг с 8.30 до 17.15 часов, перерыв с 12.15 до 13.00 часов, пятница  с 8.30 до 17.00 часов, перерыв с 12.30 до 13.00 часов по МСК). Размер платы 0,00 рублей",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2225
+                },
+                {
+                    "code": "DA_Lot.contractPeriod_PK(MKD)",
+                    "fullName": "Срок действия договора",
+                    "value": "3",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2250
+                }
+            ],
+            "noticeAttributes": [
+                {
+                    "code": "DA_typeCompetitive_PK(ZHKH)",
+                    "fullName": "Вид конкурса",
+                    "value": {
+                        "code": "MKD",
+                        "name": "Конкурсный отбор управляющей организации для управления многоквартирным домом"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "N250",
+                        "name": "1.2 Извещение_основные_сведения",
+                        "displayGroupType": "NOTICE"
+                    },
+                    "sortOrder": 100
+                }
+            ],
+            "isAnnulled": false,
+            "noticeFirstVersionPublicationDate": "2024-08-05T13:19:02.833Z",
+            "npaHintCode": "hint2_ZHKH_PK_1"
+        },
+        {
+            "id": "21000023240000000186_12",
+            "noticeNumber": "21000023240000000186",
+            "lotNumber": 12,
+            "lotStatus": "PUBLISHED",
+            "biddType": {
+                "code": "ZHKH",
+                "name": "Отбор региональных операторов по обращению с ТКО и управляющих организаций для управления МКД"
+            },
+            "biddForm": {
+                "code": "PK",
+                "name": "Конкурс"
+            },
+            "lotName": "Право заключения договора управления многоквартирным домом. расположенного по адресу: Владимирская область, г. Гусь-Хрустальный,   п. Новый ул. Ленина дом № 16",
+            "lotDescription": "Лот № 12",
+            "priceMin": 0.0,
+            "biddEndTime": "2024-09-09T07:00:00.000+00:00",
+            "lotImages": [],
+            "characteristics": [],
+            "subjectRFCode": "33",
+            "category": {
+                "code": "902",
+                "name": "Управление многоквартирными домами"
+            },
+            "createDate": "2024-08-05T11:04:14.869+00:00",
+            "timeZoneName": "МСК",
+            "timezoneOffset": "180",
+            "hasAppeals": false,
+            "isStopped": false,
+            "attributes": [
+                {
+                    "code": "DA_Lot.deposit_PK(MKD)",
+                    "fullName": "Размер обеспечения заявки",
+                    "value": 1417.33,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2025
+                },
+                {
+                    "code": "DA_Lot.basis_PK(MKD)",
+                    "fullName": "Основание проведения конкурса и нормативные правовые акты, на основании которых проводится конкурс",
+                    "value": "ч. 2 ст. 163 Жилищного кодекса Российской Федерации ",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2050
+                },
+                {
+                    "code": "DA_Lot.objectCharacteristic_PK(MKD)",
+                    "fullName": "Характеристика объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2075
+                },
+                {
+                    "code": "DA_Lot.nameServices_PK(MKD)",
+                    "fullName": "Наименование работ и услуг по содержанию и ремонту объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2125
+                },
+                {
+                    "code": "DA_Lot.amountFee_PK(MKD)",
+                    "fullName": "Размер платы за содержание и ремонт жилого помещения",
+                    "value": 45.74,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2150
+                },
+                {
+                    "code": "DA_Lot.listServices_PK(MKD)",
+                    "fullName": "Перечень коммунальных услуг, предоставляемых управляющей организацией",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2175
+                },
+                {
+                    "code": "DA_Lot.officialSite_PK(MKD)",
+                    "fullName": "Адрес официального сайта, на котором размещена конкурсная документация",
+                    "value": "torgi.gov.ru",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2200
+                },
+                {
+                    "code": "DA_Lot.submissionDocumentation_PK(MKD)",
+                    "fullName": "Место и порядок предоставления конкурсной документации, \nразмер, порядок и сроки внесения платы, за предоставление конкурсной документации",
+                    "value": "Конкурсную документацию на бумажном носителе можно получить  по адресу: Владимирская область, г. Гусь-Хрустальный, ул. Калинина, д. 11, технический отдел МКУ «Служба единого заказчика» на основании  письменного заявления в течение  двух рабочих дней с даты получения письменного  заявления, в течение срока подачи заявок (понедельник - четверг с 8.30 до 17.15 часов, перерыв с 12.15 до 13.00 часов, пятница  с 8.30 до 17.00 часов, перерыв с 12.30 до 13.00 часов по МСК). Размер платы 0,00 рублей",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2225
+                },
+                {
+                    "code": "DA_Lot.contractPeriod_PK(MKD)",
+                    "fullName": "Срок действия договора",
+                    "value": "3",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2250
+                }
+            ],
+            "noticeAttributes": [
+                {
+                    "code": "DA_typeCompetitive_PK(ZHKH)",
+                    "fullName": "Вид конкурса",
+                    "value": {
+                        "code": "MKD",
+                        "name": "Конкурсный отбор управляющей организации для управления многоквартирным домом"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "N250",
+                        "name": "1.2 Извещение_основные_сведения",
+                        "displayGroupType": "NOTICE"
+                    },
+                    "sortOrder": 100
+                }
+            ],
+            "isAnnulled": false,
+            "noticeFirstVersionPublicationDate": "2024-08-05T13:19:02.833Z",
+            "npaHintCode": "hint2_ZHKH_PK_1"
+        },
+        {
+            "id": "21000023240000000186_13",
+            "noticeNumber": "21000023240000000186",
+            "lotNumber": 13,
+            "lotStatus": "PUBLISHED",
+            "biddType": {
+                "code": "ZHKH",
+                "name": "Отбор региональных операторов по обращению с ТКО и управляющих организаций для управления МКД"
+            },
+            "biddForm": {
+                "code": "PK",
+                "name": "Конкурс"
+            },
+            "lotName": "Право заключения договора управления многоквартирным домом. расположенного по адресу: Владимирская область, г. Гусь-Хрустальный,   п. Новый ул. Ленина дом № 9",
+            "lotDescription": "Лот № 13",
+            "priceMin": 0.0,
+            "biddEndTime": "2024-09-09T07:00:00.000+00:00",
+            "lotImages": [],
+            "characteristics": [],
+            "subjectRFCode": "33",
+            "category": {
+                "code": "902",
+                "name": "Управление многоквартирными домами"
+            },
+            "createDate": "2024-08-05T11:04:14.869+00:00",
+            "timeZoneName": "МСК",
+            "timezoneOffset": "180",
+            "hasAppeals": false,
+            "isStopped": false,
+            "attributes": [
+                {
+                    "code": "DA_Lot.deposit_PK(MKD)",
+                    "fullName": "Размер обеспечения заявки",
+                    "value": 1048.4,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2025
+                },
+                {
+                    "code": "DA_Lot.basis_PK(MKD)",
+                    "fullName": "Основание проведения конкурса и нормативные правовые акты, на основании которых проводится конкурс",
+                    "value": "ч. 2 ст. 163 Жилищного кодекса Российской Федерации",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2050
+                },
+                {
+                    "code": "DA_Lot.objectCharacteristic_PK(MKD)",
+                    "fullName": "Характеристика объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2075
+                },
+                {
+                    "code": "DA_Lot.nameServices_PK(MKD)",
+                    "fullName": "Наименование работ и услуг по содержанию и ремонту объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2125
+                },
+                {
+                    "code": "DA_Lot.amountFee_PK(MKD)",
+                    "fullName": "Размер платы за содержание и ремонт жилого помещения",
+                    "value": 45.74,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2150
+                },
+                {
+                    "code": "DA_Lot.listServices_PK(MKD)",
+                    "fullName": "Перечень коммунальных услуг, предоставляемых управляющей организацией",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2175
+                },
+                {
+                    "code": "DA_Lot.officialSite_PK(MKD)",
+                    "fullName": "Адрес официального сайта, на котором размещена конкурсная документация",
+                    "value": "torgi.gov.ru",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2200
+                },
+                {
+                    "code": "DA_Lot.submissionDocumentation_PK(MKD)",
+                    "fullName": "Место и порядок предоставления конкурсной документации, \nразмер, порядок и сроки внесения платы, за предоставление конкурсной документации",
+                    "value": "Конкурсную документацию на бумажном носителе можно получить  по адресу: Владимирская область, г. Гусь-Хрустальный, ул. Калинина, д. 11, технический отдел МКУ «Служба единого заказчика» на основании  письменного заявления в течение  двух рабочих дней с даты получения письменного  заявления, в течение срока подачи заявок (понедельник - четверг с 8.30 до 17.15 часов, перерыв с 12.15 до 13.00 часов, пятница  с 8.30 до 17.00 часов, перерыв с 12.30 до 13.00 часов по МСК). Размер платы 0,00 рублей",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2225
+                },
+                {
+                    "code": "DA_Lot.contractPeriod_PK(MKD)",
+                    "fullName": "Срок действия договора",
+                    "value": "3",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2250
+                }
+            ],
+            "noticeAttributes": [
+                {
+                    "code": "DA_typeCompetitive_PK(ZHKH)",
+                    "fullName": "Вид конкурса",
+                    "value": {
+                        "code": "MKD",
+                        "name": "Конкурсный отбор управляющей организации для управления многоквартирным домом"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "N250",
+                        "name": "1.2 Извещение_основные_сведения",
+                        "displayGroupType": "NOTICE"
+                    },
+                    "sortOrder": 100
+                }
+            ],
+            "isAnnulled": false,
+            "noticeFirstVersionPublicationDate": "2024-08-05T13:19:02.833Z",
+            "npaHintCode": "hint2_ZHKH_PK_1"
+        },
+        {
+            "id": "21000023240000000186_17",
+            "noticeNumber": "21000023240000000186",
+            "lotNumber": 17,
+            "lotStatus": "PUBLISHED",
+            "biddType": {
+                "code": "ZHKH",
+                "name": "Отбор региональных операторов по обращению с ТКО и управляющих организаций для управления МКД"
+            },
+            "biddForm": {
+                "code": "PK",
+                "name": "Конкурс"
+            },
+            "lotName": "Право заключения договора управления многоквартирным домом. расположенного по адресу: Владимирская область, г. Гусь-Хрустальный,  ул. Ломоносова дом № 26",
+            "lotDescription": "Лот № 17",
+            "priceMin": 0.0,
+            "biddEndTime": "2024-09-09T07:00:00.000+00:00",
+            "lotImages": [],
+            "characteristics": [],
+            "subjectRFCode": "33",
+            "category": {
+                "code": "902",
+                "name": "Управление многоквартирными домами"
+            },
+            "createDate": "2024-08-05T11:04:14.869+00:00",
+            "timeZoneName": "МСК",
+            "timezoneOffset": "180",
+            "hasAppeals": false,
+            "isStopped": false,
+            "attributes": [
+                {
+                    "code": "DA_Lot.deposit_PK(MKD)",
+                    "fullName": "Размер обеспечения заявки",
+                    "value": 7173.68,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2025
+                },
+                {
+                    "code": "DA_Lot.basis_PK(MKD)",
+                    "fullName": "Основание проведения конкурса и нормативные правовые акты, на основании которых проводится конкурс",
+                    "value": "ч. 2 ст. 163 Жилищного кодекса Российской Федерации ",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2050
+                },
+                {
+                    "code": "DA_Lot.objectCharacteristic_PK(MKD)",
+                    "fullName": "Характеристика объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2075
+                },
+                {
+                    "code": "DA_Lot.nameServices_PK(MKD)",
+                    "fullName": "Наименование работ и услуг по содержанию и ремонту объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2125
+                },
+                {
+                    "code": "DA_Lot.amountFee_PK(MKD)",
+                    "fullName": "Размер платы за содержание и ремонт жилого помещения",
+                    "value": 47.92,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2150
+                },
+                {
+                    "code": "DA_Lot.listServices_PK(MKD)",
+                    "fullName": "Перечень коммунальных услуг, предоставляемых управляющей организацией",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2175
+                },
+                {
+                    "code": "DA_Lot.officialSite_PK(MKD)",
+                    "fullName": "Адрес официального сайта, на котором размещена конкурсная документация",
+                    "value": "torgi.gov.ru",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2200
+                },
+                {
+                    "code": "DA_Lot.submissionDocumentation_PK(MKD)",
+                    "fullName": "Место и порядок предоставления конкурсной документации, \nразмер, порядок и сроки внесения платы, за предоставление конкурсной документации",
+                    "value": "Конкурсную документацию на бумажном носителе можно получить  по адресу: Владимирская область, г. Гусь-Хрустальный, ул. Калинина, д. 11, технический отдел МКУ «Служба единого заказчика» на основании  письменного заявления в течение  двух рабочих дней с даты получения письменного  заявления, в течение срока подачи заявок (понедельник - четверг с 8.30 до 17.15 часов, перерыв с 12.15 до 13.00 часов, пятница  с 8.30 до 17.00 часов, перерыв с 12.30 до 13.00 часов по МСК). Размер платы 0,00 рублей",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2225
+                },
+                {
+                    "code": "DA_Lot.contractPeriod_PK(MKD)",
+                    "fullName": "Срок действия договора",
+                    "value": "3",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2250
+                }
+            ],
+            "noticeAttributes": [
+                {
+                    "code": "DA_typeCompetitive_PK(ZHKH)",
+                    "fullName": "Вид конкурса",
+                    "value": {
+                        "code": "MKD",
+                        "name": "Конкурсный отбор управляющей организации для управления многоквартирным домом"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "N250",
+                        "name": "1.2 Извещение_основные_сведения",
+                        "displayGroupType": "NOTICE"
+                    },
+                    "sortOrder": 100
+                }
+            ],
+            "isAnnulled": false,
+            "noticeFirstVersionPublicationDate": "2024-08-05T13:19:02.833Z",
+            "npaHintCode": "hint2_ZHKH_PK_1"
+        },
+        {
+            "id": "21000023240000000186_16",
+            "noticeNumber": "21000023240000000186",
+            "lotNumber": 16,
+            "lotStatus": "PUBLISHED",
+            "biddType": {
+                "code": "ZHKH",
+                "name": "Отбор региональных операторов по обращению с ТКО и управляющих организаций для управления МКД"
+            },
+            "biddForm": {
+                "code": "PK",
+                "name": "Конкурс"
+            },
+            "lotName": "Право заключения договора управления многоквартирным домом. расположенного по адресу: Владимирская область, г. Гусь-Хрустальный,   п. Новый ул. Ленина дом № 15",
+            "lotDescription": "Лот № 16",
+            "priceMin": 0.0,
+            "biddEndTime": "2024-09-09T07:00:00.000+00:00",
+            "lotImages": [],
+            "characteristics": [],
+            "subjectRFCode": "33",
+            "category": {
+                "code": "902",
+                "name": "Управление многоквартирными домами"
+            },
+            "createDate": "2024-08-05T11:04:14.869+00:00",
+            "timeZoneName": "МСК",
+            "timezoneOffset": "180",
+            "hasAppeals": false,
+            "isStopped": false,
+            "attributes": [
+                {
+                    "code": "DA_Lot.deposit_PK(MKD)",
+                    "fullName": "Размер обеспечения заявки",
+                    "value": 1436.38,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2025
+                },
+                {
+                    "code": "DA_Lot.basis_PK(MKD)",
+                    "fullName": "Основание проведения конкурса и нормативные правовые акты, на основании которых проводится конкурс",
+                    "value": "ч. 2 ст. 163 Жилищного кодекса Российской Федерации ",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2050
+                },
+                {
+                    "code": "DA_Lot.objectCharacteristic_PK(MKD)",
+                    "fullName": "Характеристика объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2075
+                },
+                {
+                    "code": "DA_Lot.nameServices_PK(MKD)",
+                    "fullName": "Наименование работ и услуг по содержанию и ремонту объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2125
+                },
+                {
+                    "code": "DA_Lot.amountFee_PK(MKD)",
+                    "fullName": "Размер платы за содержание и ремонт жилого помещения",
+                    "value": 45.74,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2150
+                },
+                {
+                    "code": "DA_Lot.listServices_PK(MKD)",
+                    "fullName": "Перечень коммунальных услуг, предоставляемых управляющей организацией",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2175
+                },
+                {
+                    "code": "DA_Lot.officialSite_PK(MKD)",
+                    "fullName": "Адрес официального сайта, на котором размещена конкурсная документация",
+                    "value": "torgi.gov.ru",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2200
+                },
+                {
+                    "code": "DA_Lot.submissionDocumentation_PK(MKD)",
+                    "fullName": "Место и порядок предоставления конкурсной документации, \nразмер, порядок и сроки внесения платы, за предоставление конкурсной документации",
+                    "value": "Конкурсную документацию на бумажном носителе можно получить  по адресу: Владимирская область, г. Гусь-Хрустальный, ул. Калинина, д. 11, технический отдел МКУ «Служба единого заказчика» на основании  письменного заявления в течение  двух рабочих дней с даты получения письменного  заявления, в течение срока подачи заявок (понедельник - четверг с 8.30 до 17.15 часов, перерыв с 12.15 до 13.00 часов, пятница  с 8.30 до 17.00 часов, перерыв с 12.30 до 13.00 часов по МСК). Размер платы 0,00 рублей",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2225
+                },
+                {
+                    "code": "DA_Lot.contractPeriod_PK(MKD)",
+                    "fullName": "Срок действия договора",
+                    "value": "3",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2250
+                }
+            ],
+            "noticeAttributes": [
+                {
+                    "code": "DA_typeCompetitive_PK(ZHKH)",
+                    "fullName": "Вид конкурса",
+                    "value": {
+                        "code": "MKD",
+                        "name": "Конкурсный отбор управляющей организации для управления многоквартирным домом"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "N250",
+                        "name": "1.2 Извещение_основные_сведения",
+                        "displayGroupType": "NOTICE"
+                    },
+                    "sortOrder": 100
+                }
+            ],
+            "isAnnulled": false,
+            "noticeFirstVersionPublicationDate": "2024-08-05T13:19:02.833Z",
+            "npaHintCode": "hint2_ZHKH_PK_1"
+        },
+        {
+            "id": "21000023240000000186_4",
+            "noticeNumber": "21000023240000000186",
+            "lotNumber": 4,
+            "lotStatus": "PUBLISHED",
+            "biddType": {
+                "code": "ZHKH",
+                "name": "Отбор региональных операторов по обращению с ТКО и управляющих организаций для управления МКД"
+            },
+            "biddForm": {
+                "code": "PK",
+                "name": "Конкурс"
+            },
+            "lotName": "Право заключения договора управления многоквартирным домом. расположенного по адресу: Владимирская область, г. Гусь-Хрустальный,  п. Панфилово, дом № 1а",
+            "lotDescription": "Лот № 4",
+            "priceMin": 0.0,
+            "biddEndTime": "2024-09-09T07:00:00.000+00:00",
+            "lotImages": [],
+            "characteristics": [],
+            "subjectRFCode": "33",
+            "category": {
+                "code": "902",
+                "name": "Управление многоквартирными домами"
+            },
+            "createDate": "2024-08-05T11:04:14.869+00:00",
+            "timeZoneName": "МСК",
+            "timezoneOffset": "180",
+            "hasAppeals": false,
+            "isStopped": false,
+            "attributes": [
+                {
+                    "code": "DA_Lot.deposit_PK(MKD)",
+                    "fullName": "Размер обеспечения заявки",
+                    "value": 1087.27,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2025
+                },
+                {
+                    "code": "DA_Lot.basis_PK(MKD)",
+                    "fullName": "Основание проведения конкурса и нормативные правовые акты, на основании которых проводится конкурс",
+                    "value": "ч. 2 ст. 163 Жилищного кодекса Российской Федерации ",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2050
+                },
+                {
+                    "code": "DA_Lot.objectCharacteristic_PK(MKD)",
+                    "fullName": "Характеристика объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации ",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL255",
+                        "name": "5.4.2 Лот_информация_о_задатке_дин",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2075
+                },
+                {
+                    "code": "DA_Lot.nameServices_PK(MKD)",
+                    "fullName": "Наименование работ и услуг по содержанию и ремонту объекта конкурса",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации ",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2125
+                },
+                {
+                    "code": "DA_Lot.amountFee_PK(MKD)",
+                    "fullName": "Размер платы за содержание и ремонт жилого помещения",
+                    "value": 45.74,
+                    "attributeType": "Money",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2150
+                },
+                {
+                    "code": "DA_Lot.listServices_PK(MKD)",
+                    "fullName": "Перечень коммунальных услуг, предоставляемых управляющей организацией",
+                    "value": "Согласно прилагаемым извещению и конкурсной документации ",
+                    "attributeType": "Text(1000)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2175
+                },
+                {
+                    "code": "DA_Lot.officialSite_PK(MKD)",
+                    "fullName": "Адрес официального сайта, на котором размещена конкурсная документация",
+                    "value": "torgi.gov.ru",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2200
+                },
+                {
+                    "code": "DA_Lot.submissionDocumentation_PK(MKD)",
+                    "fullName": "Место и порядок предоставления конкурсной документации, \nразмер, порядок и сроки внесения платы, за предоставление конкурсной документации",
+                    "value": "Конкурсную документацию на бумажном носителе можно получить  по адресу: Владимирская область, г. Гусь-Хрустальный, ул. Калинина, д. 11, технический отдел МКУ «Служба единого заказчика» на основании  письменного заявления в течение  двух рабочих дней с даты получения письменного  заявления, в течение срока подачи заявок (понедельник - четверг с 8.30 до 17.15 часов, перерыв с 12.15 до 13.00 часов, пятница  с 8.30 до 17.00 часов, перерыв с 12.30 до 13.00 часов по МСК). Размер платы 0,00 рублей",
+                    "attributeType": "Text(500)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2225
+                },
+                {
+                    "code": "DA_Lot.contractPeriod_PK(MKD)",
+                    "fullName": "Срок действия договора",
+                    "value": "3",
+                    "attributeType": "Text(100)",
+                    "group": {
+                        "code": "NL260",
+                        "name": "5.5 Лот_особенности",
+                        "displayGroupType": "LOT"
+                    },
+                    "sortOrder": 2250
+                }
+            ],
+            "noticeAttributes": [
+                {
+                    "code": "DA_typeCompetitive_PK(ZHKH)",
+                    "fullName": "Вид конкурса",
+                    "value": {
+                        "code": "MKD",
+                        "name": "Конкурсный отбор управляющей организации для управления многоквартирным домом"
+                    },
+                    "attributeType": "Select",
+                    "group": {
+                        "code": "N250",
+                        "name": "1.2 Извещение_основные_сведения",
+                        "displayGroupType": "NOTICE"
+                    },
+                    "sortOrder": 100
+                }
+            ],
+            "isAnnulled": false,
+            "noticeFirstVersionPublicationDate": "2024-08-05T13:19:02.833Z",
+            "npaHintCode": "hint2_ZHKH_PK_1"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "unsorted": false,
+            "sorted": true,
+            "empty": false
+        },
+        "pageNumber": 0,
+        "pageSize": 10,
+        "offset": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "categoryFacet": [
+        {
+            "_id": "902",
+            "count": 17734
+        },
+        {
+            "_id": "301",
+            "count": 16545
+        },
+        {
+            "_id": "405",
+            "count": 8662
+        },
+        {
+            "_id": "11",
+            "count": 6120
+        },
+        {
+            "_id": "307",
+            "count": 3859
+        },
+        {
+            "_id": "100001",
+            "count": 3746
+        },
+        {
+            "_id": "4",
+            "count": 3422
+        },
+        {
+            "_id": "9",
+            "count": 3333
+        },
+        {
+            "_id": "8",
+            "count": 2321
+        },
+        {
+            "_id": "10",
+            "count": 1923
+        },
+        {
+            "_id": "406",
+            "count": 1006
+        },
+        {
+            "_id": "614",
+            "count": 804
+        },
+        {
+            "_id": "47",
+            "count": 731
+        },
+        {
+            "_id": "304",
+            "count": 679
+        },
+        {
+            "_id": "101",
+            "count": 561
+        },
+        {
+            "_id": "400",
+            "count": 550
+        },
+        {
+            "_id": "100002",
+            "count": 503
+        },
+        {
+            "_id": "801",
+            "count": 497
+        },
+        {
+            "_id": "31",
+            "count": 413
+        },
+        {
+            "_id": "208",
+            "count": 396
+        },
+        {
+            "_id": "610",
+            "count": 337
+        },
+        {
+            "_id": "202",
+            "count": 322
+        },
+        {
+            "_id": "110",
+            "count": 275
+        },
+        {
+            "_id": "602",
+            "count": 221
+        },
+        {
+            "_id": "302",
+            "count": 190
+        },
+        {
+            "_id": "600",
+            "count": 179
+        },
+        {
+            "_id": "206",
+            "count": 141
+        },
+        {
+            "_id": "605000",
+            "count": 140
+        },
+        {
+            "_id": "210",
+            "count": 138
+        },
+        {
+            "_id": "3",
+            "count": 131
+        },
+        {
+            "_id": "106",
+            "count": 116
+        },
+        {
+            "_id": "617",
+            "count": 114
+        },
+        {
+            "_id": "609",
+            "count": 106
+        },
+        {
+            "_id": "20",
+            "count": 94
+        },
+        {
+            "_id": "500",
+            "count": 93
+        },
+        {
+            "_id": "207",
+            "count": 83
+        },
+        {
+            "_id": "404",
+            "count": 73
+        },
+        {
+            "_id": "611",
+            "count": 70
+        },
+        {
+            "_id": "100000",
+            "count": 62
+        },
+        {
+            "_id": "2004",
+            "count": 60
+        },
+        {
+            "_id": "410",
+            "count": 60
+        },
+        {
+            "_id": "401",
+            "count": 58
+        },
+        {
+            "_id": "402",
+            "count": 58
+        },
+        {
+            "_id": "604",
+            "count": 56
+        },
+        {
+            "_id": "46",
+            "count": 44
+        },
+        {
+            "_id": "104",
+            "count": 36
+        },
+        {
+            "_id": "16",
+            "count": 27
+        },
+        {
+            "_id": "12",
+            "count": 26
+        },
+        {
+            "_id": "701",
+            "count": 26
+        },
+        {
+            "_id": "45",
+            "count": 24
+        },
+        {
+            "_id": "605002",
+            "count": 20
+        },
+        {
+            "_id": "19",
+            "count": 17
+        },
+        {
+            "_id": "612",
+            "count": 16
+        },
+        {
+            "_id": "403",
+            "count": 14
+        },
+        {
+            "_id": "901",
+            "count": 12
+        },
+        {
+            "_id": "603",
+            "count": 11
+        },
+        {
+            "_id": "800",
+            "count": 9
+        },
+        {
+            "_id": "103",
+            "count": 2
+        },
+        {
+            "_id": "605001",
+            "count": 2
+        },
+        {
+            "_id": "7",
+            "count": 1
+        }
+    ],
+    "totalPages": 1000,
+    "totalElements": 10000,
+    "last": false,
+    "numberOfElements": 10,
+    "first": true,
+    "size": 10,
+    "number": 0,
+    "sort": {
+        "unsorted": false,
+        "sorted": true,
+        "empty": false
+    },
+    "empty": false
+}
